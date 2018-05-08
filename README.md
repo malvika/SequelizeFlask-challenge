@@ -1,6 +1,5 @@
 # SequelizeFlask-challenge
 
-!--lint disable no-heading-punctuation-->
 # Surfs Up!
 <!--lint enable no-heading-punctuation-->
 
